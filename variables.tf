@@ -1,6 +1,6 @@
 variable "domain" {
   description = "The domain name associated with our organization"
-  default     = "No organization"
+  default     = ""
 }
 variable "billing_account_id" {
   description = "The billing account ID"
